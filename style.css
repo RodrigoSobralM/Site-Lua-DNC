@@ -30,6 +30,7 @@ header ul li {
     letter-spacing: 0.02em;
     text-transform: uppercase;
     color: #E0DAED;
+    cursor: pointer;
 }
 
 main {
@@ -105,7 +106,7 @@ main form input::placeholder {
 }
 
 #btn2:hover {
-    background: rgb(219, 218, 218);
+    background: #8b6fc0;
 }
 
 .formGroup {
